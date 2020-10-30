@@ -1,5 +1,6 @@
 # Lidar Obstacle Detection Project
 In this project, we will be using point cloud data to detect vehicles and other objects on the road.
+
 **Step-by-step Process:**
 - Downsampling & ROI extraction
 - Ground plane segmentation using RANSAC algorithm
